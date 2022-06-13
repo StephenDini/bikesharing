@@ -3,7 +3,7 @@ Working With Tablaeu
 
 # Results:
 
-![Results can be viewed here](https://public.tableau.com/app/profile/stephen.dini/viz/ClassAssignment_16551185358360/Story1?publish=yes)
+[Results can be viewed here](https://public.tableau.com/app/profile/stephen.dini/viz/ClassAssignment_16551185358360/Story1?publish=yes)
 
 # Summary
 
